@@ -11,7 +11,7 @@
 		"comments": "Comment[]",
 		"body": "string"
 	}
-	"Category" {
+	"Category": {
 		"title": "string",
 		"subCatogories": "array"
 	}
