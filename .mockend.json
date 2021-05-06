@@ -1,18 +1,18 @@
 {
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  },
-  "Post": {
-      "title": "string",
-      "views": "int",
-      "published": "boolean",
-      "createdAt": "date",
-      "comments": "Comment[]",
-      "body":"string"
-    }
-  "Category" {
-  "title": "string",
-  "subCatogories": "array"
+	"Comment": {
+		"body": "string",
+		"post": "Post"
+	},
+	"Post": {
+		"title": "string",
+		"views": "int",
+		"published": "boolean",
+		"createdAt": "date",
+		"comments": "Comment[]",
+		"body": "string"
+	}
+	"Category" {
+		"title": "string",
+		"subCatogories": "array"
+	}
 }
-  }
